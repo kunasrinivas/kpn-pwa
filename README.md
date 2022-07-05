@@ -16,7 +16,7 @@ Demo code on the KPN PWA-workshop
 8. Update  `index.html` with a link to the manifest file.
 9. Add a Service Worker (sw) and let it add static items to the cache upon installation.
 10. Expand the SW to get the items from the cache when it is loaded. This way our PWA can work offline!
-11. 
+11. Register the Service Worker in `app.js`
 
 ## Credits:
 - https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/
