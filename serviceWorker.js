@@ -36,7 +36,6 @@ self.addEventListener("install", installEvent => {
     )
 })
 
-
 // *********************
 // Step 10. Fetching the assets from the cache.
 // Again, an event is registered and handled asynchrounously.
