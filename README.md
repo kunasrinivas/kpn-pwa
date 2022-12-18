@@ -22,3 +22,4 @@ Demo code on the KPN PWA-workshop
 - https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/
 
 Questions? email me at info@kassenaar.com
+Cheers - Peter.
