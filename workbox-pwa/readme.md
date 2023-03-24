@@ -200,6 +200,7 @@ Use Google, Stackoverflow, Medium, dev.to, web.dev and so on, to learn more abou
 - https://www.freecodecamp.org/news/build-a-pwa-from-scratch-with-html-css-and-javascript/
 - https://web.dev/what-are-pwas/
 - https://dev.to/terasol_app/top-pwa-development-tools-and-technologies-for-your-business-3kj3
+- https://www.netlify.com/
 
 Good luck!
 
